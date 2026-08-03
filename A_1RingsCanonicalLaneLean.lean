@@ -1,0 +1,14 @@
+-- This module is the root of the A_1RingsCanonicalLaneLean Lean proof package.
+import A_1RingsCanonicalLaneLean.Basic
+import A_1RingsCanonicalLaneLean.SourcePackage
+import A_1RingsCanonicalLaneLean.SourceDependencies
+import A_1RingsCanonicalLaneLean.Formalization
+import A_1RingsCanonicalLaneLean.ReviewerBridge
+import A_1RingsCanonicalLaneLean.TheoremStatement
+import A_1RingsCanonicalLaneLean.MathlibObjects
+import A_1RingsCanonicalLaneLean.AdmissibleClass
+import A_1RingsCanonicalLaneLean.Projection
+import A_1RingsCanonicalLaneLean.BridgeLemmas
+import A_1RingsCanonicalLaneLean.GateLemmas
+import A_1RingsCanonicalLaneLean.FinalTheorem
+import A_1RingsCanonicalLaneLean.MathlibStatement
